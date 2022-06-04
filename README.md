@@ -14,6 +14,8 @@ The written analysis has the following:
 The purpose of the analysis is well defined. (3 pt)
 
 # Results:
+![June Temps](https://user-images.githubusercontent.com/102183530/172026284-a9239439-45ae-4fbd-9675-666fac9768f6.png)
+![Dec Temps](https://user-images.githubusercontent.com/102183530/172026286-dfce218e-c149-4d21-a2ca-3b49cc9b534e.png)
 
 There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
 
